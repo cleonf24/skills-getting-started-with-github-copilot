@@ -142,3 +142,29 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-section {
+  margin-top: 10px;
+}
+
+.participants-section strong {
+  margin-bottom: 6px;
+  color: #1a237e;
+  font-size: 1em;
+}
+
+.activity-card .participants-list {
+  margin-left: 24px;
+  padding-left: 18px;
+  list-style-type: disc;
+  color: #333;
+  font-size: 0.97em;
+}
+
+.participants-list li {
+  margin-bottom: 2px;
+  padding-left: 0;
+  word-break: normal;
+  color: #1976d2;
+  font-weight: 500;
+}
